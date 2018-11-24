@@ -1,0 +1,2 @@
+## shaderbox
+Test your fragment and vertex shaders using this application. Requires CMake to build the project, GLEW and GLFW libraries to statically link the program with. The Linux versions of those libraries are already supplied.
