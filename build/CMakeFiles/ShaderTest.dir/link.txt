@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ShaderTest.dir/src/main.cpp.o CMakeFiles/ShaderTest.dir/src/glad.c.o CMakeFiles/ShaderTest.dir/src/shader.cpp.o  -o ShaderTest  -L/home/ben/Documents/Projects/ShaderTest/lib -Wl,-rpath,/home/ben/Documents/Projects/ShaderTest/lib -lglfw3 -lm -lrt -ldl -lX11 -lpthread 
